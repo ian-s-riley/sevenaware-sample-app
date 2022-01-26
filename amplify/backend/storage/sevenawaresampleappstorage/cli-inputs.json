@@ -1,0 +1,14 @@
+{
+  "resourceName": "sevenawaresampleappstorage",
+  "policyUUID": "fd8a1ff4",
+  "bucketName": "sevenawareasampleapp0b224d52a6f642f6946207b00f1",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

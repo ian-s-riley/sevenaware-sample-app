@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sevenawareasampleapp-dev-171626-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030045763862:role/amplify-sevenawareasampleapp-dev-171626-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030045763862:role/amplify-sevenawareasampleapp-dev-171626-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sevenawareasampleapp-dev-171626-deployment",
+      "UnauthRoleName": "amplify-sevenawareasampleapp-dev-171626-unauthRole",
+      "StackName": "amplify-sevenawareasampleapp-dev-171626",
+      "StackId": "arn:aws:cloudformation:us-east-1:030045763862:stack/amplify-sevenawareasampleapp-dev-171626/33a37d20-7e3d-11ec-852a-12335082ef57",
+      "AmplifyAppId": "d38zy63cut2bxe"
+    },
+    "categories": {
+      "auth": {
+        "sevenawareasampleapp5c67eac7": {}
+      }
+    }
+  }
+}

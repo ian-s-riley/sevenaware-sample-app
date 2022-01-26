@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "sevenawareasampleapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\ianse\\GitLocal\\seven-awarea-sample-app\\amplify\\backend\\api\\sevenawareasampleapp\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authsevenawareasampleapp5c67eac7"
+    }
+  }
+}
